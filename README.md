@@ -1,8 +1,8 @@
 # Python - Music Player Application
 
-This program includes using tkinter and pygame librarires to create a Music Player GUI.
+This program includes using tkinter and pygame packages to create a Music Player GUI.
 
-Once code has been executed the program will open up as follows:
+Once the code has been executed the music player tool will open up as follows:
 
 ![image](https://user-images.githubusercontent.com/66092888/124204798-cc7eee00-daad-11eb-8a6a-14a8e2a43526.png)
 
